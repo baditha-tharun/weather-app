@@ -25,5 +25,5 @@ A simple and responsive Weather web app built using HTML, CSS and Javascript. It
 ### Installation
 To get a local copy up and running, just Clone the repo
    ```sh
-   https://github.com/vamsilaveti/weather-app.git
+   https://github.com/baditha-tharun/weather-app.git
    ```
